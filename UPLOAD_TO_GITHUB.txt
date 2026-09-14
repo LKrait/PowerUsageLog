@@ -1,0 +1,3 @@
+Upload the contents of this folder to the root of your GitHub repository.
+Do not upload the outer PowerUsageLog-GitHub folder itself if you are using GitHub's web upload.
+The important file is .github/workflows/build-apk.yml; it makes GitHub build the APK automatically.
